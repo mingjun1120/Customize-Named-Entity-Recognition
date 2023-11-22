@@ -4,4 +4,4 @@ notebooks/cifar_net.pth
 venv
 
 # For env variables
-env.yml
+.env
